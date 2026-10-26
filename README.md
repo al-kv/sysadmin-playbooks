@@ -1,4 +1,16 @@
-# 🛠️ Sysadmin Playbooks Collection  
+# 🛠️ Sysadmin Playbooks Collection
+## Навигация по репозиторию
+```mermaid
+mindmap
+  root((Sysadmin Playbooks))
+    Network
+      Server Diagnostics
+      Advanced VLAN/VPN
+    Linux
+      Process Diagnostics
+    Docker
+      Containers Troubleshooting
+```
 📡 Network | 🖥️ Linux | 🐳 Docker | 🌐 Advanced Networking  
 ### Diagnose faster, fix smarter
 
